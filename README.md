@@ -23,7 +23,7 @@
   <li><code>/strasz demon</code> - spawns behind you and if you look at it it will sprint towards you</li>
   <li><code>/strasz jumpscare</code> - fast moving armor stand that plays scary sound</li>
   <li><code>/strasz wilki</code> - spawns few wolfs that tries to kill the player</li>
-  <li><code>/strasz nietoperze - spawns cloud of bats that disappear after some time</code></li>
+  <li><code>/strasz nietoperze</code> - spawns cloud of bats that disappear after some time</li>
   <li><code>/strasz aniol</code> - spawns angel of death from dr who, spawns behind player and if player don't look at it will come closer, and after touching kill player</li>
   <li><code>/strasz muzyka</code> - plays 'scary' music (2 music discs at the same time for like 30 sec)</li>
   <li><code>/strasz creeper</code> - spawns creepers that explode but don't do any damage (just effect)</li>
