@@ -1,0 +1,23 @@
+#Czas trwania odpowiadających efektów
+aniol-trwanie: 12.0
+demon-trwanie: 7.0
+muzyka-trwanie: 28
+opetanie-trwanie: 10
+wilki-trwanie: 20
+nietoperze-trwanie: 20
+
+#Co ile sekund gracz ma być opentany
+opetanie-co-ile-sek: 2.0
+
+#Prędkość potworów
+aniol-predkosc: 2.7
+demon-predkosc: 15.0
+jumpscare-predkosc: 3.6
+
+#Wiadomości
+aniol-wiadomosc: 'Nie trać go z oczu'
+demon-wiadomosc: 'Nie odwracaj sie'
+
+#Ilość przyzywanych istot
+wilki-ilosc: 5
+nietoperze-ilosc: 7

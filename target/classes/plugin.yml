@@ -1,0 +1,13 @@
+name: Straszak
+version: '1.2-permission-and-tweaks'
+main: me.trukoaiu.straszak.Straszak
+api-version: '1.19'
+commands:
+  strasz:
+    description: Strasz swoich znajomych róznymi sposobami.
+    permission: straszak.*
+    permission-message: Nie masz permisji aby użyć tej komendy.
+Straszak:
+  Straszak.strasz:
+    description: Allows to use /strasz command
+    default: op

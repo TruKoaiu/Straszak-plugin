@@ -1,0 +1,12 @@
+me\trukoaiu\straszak\armorStands\BaseArmorStand.class
+me\trukoaiu\straszak\commands\StraszneKomendy\ChordaNietoperzy.class
+me\trukoaiu\straszak\utility\RadianFunctionality.class
+me\trukoaiu\straszak\armorStands\CreeperBiegacz.class
+me\trukoaiu\straszak\armorStands\AniolSmierci.class
+me\trukoaiu\straszak\commands\StraszneKomendy\Opentanie.class
+me\trukoaiu\straszak\commands\straszTabComplete.class
+me\trukoaiu\straszak\Straszak.class
+me\trukoaiu\straszak\commands\strasz.class
+me\trukoaiu\straszak\commands\StraszneKomendy\ChordaCreeperow.class
+me\trukoaiu\straszak\commands\StraszneKomendy\ChordaWilkow.class
+me\trukoaiu\straszak\armorStands\CzarnySzkielet.class
